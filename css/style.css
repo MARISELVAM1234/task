@@ -1,0 +1,9 @@
+.login-part{
+    background-color: antiquewhite;
+    
+}
+.divison-part{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
+}
